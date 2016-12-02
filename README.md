@@ -9,7 +9,7 @@ user-based CF,item-based CF,and SVD
 评分标准：均方根误差RMSE
 
 
-矩阵分解SVD复现最好结果：RMSE 0.845
+SVD复现最好结果：RMSE 0.845
 
 user-based CF和item-based CF基于简单原理
 
